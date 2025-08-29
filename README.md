@@ -1,5 +1,5 @@
 # Amazon Homepage Clone
-This is a **basic clone of the Amazon website homepage** created as a beginner frontend development project to practice HTML, CSS, and JavaScript.
+This is a **basic clone of the Amazon website homepage** created as a beginner frontend development project to practice HTML, CSS.
 
 ## Features
 - Responsive layout 
