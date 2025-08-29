@@ -13,7 +13,7 @@ This is a **basic clone of the Amazon website homepage** created as a beginner f
 
 ## How to Run
 1. Clone this repository to your local machine:
-   git clone <repository-url>
+   git clone (https://github.com/SneJ2703/AmazonHomepage/tree/main)
 2. Open the `index.html` file in your web browser.
 
 ## Project Status
